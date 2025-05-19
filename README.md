@@ -12,8 +12,28 @@ Our paper has been accepted to **ICML 2025**. If you find our work useful, pleas
   year={2025}
 }
 ```
-
 ## 📖 MMTU
+<table>
+<tr>
+<td style="width:60%">
+  
+In this repository, we introduce **MMTU**, which is Massive Multimodal Tabular Understanding Benchmark.  
+We classify the questions into 4 categories:
+
+- **Understanding individual elements (IE)**
+- **Interpreting rows and columns (RC)**
+- **Comprehending compositional conditions (CC)**
+- **Performing calculations or reasoning (CR)**
+
+</td>
+<td style="width:40%">
+  <img src="./resources/filter.png" width="100%">
+</td>
+</tr>
+</table>
+
+
+<!-- ## 📖 MMTU
 
 <img src="./resources/filter.png" style="float: right; margin-left: px; width: 300px;">
 
@@ -22,9 +42,9 @@ We classify the questions into 4 categories:
 - Understanding individual elements (IE)
 - Interpreting rows and columns (RC),  
 - Comprehending compositional conditions (CC)
-- Performing calculations or reasoning (CR). 
+- Performing calculations or reasoning (CR).  -->
 
-We collect Tables from WTQ, TabFact and NAT-QA creating four QA task types across over ten domains and yielding 8921 QA pairs. To ensure quality, GPT-4 generated questions, LLMs and human experts validated answers, retaining consistent pairs and resolving discrepancies, as shown in the right figure.The JSON files of questions can be found in the [data](https://github.com/LAMDA-Tabular/MMTU/tree/main/data) folder,  and the images of tables can be found in the [images](https://huggingface.co/datasets/LAMDA-Tabular/MMTU/tree/main) folder.
+We collect Tables from WTQ, TabFact and NAT-QA creating four QA task types across over ten domains and yielding 8921 QA pairs. To ensure quality, GPT-4 generated questions, LLMs and human experts validated answers, retaining consistent pairs and resolving discrepancies, as shown in the above figure.The JSON files of questions can be found in the [data](https://github.com/LAMDA-Tabular/MMTU/tree/main/data) folder,  and the images of tables can be found in the [images](https://huggingface.co/datasets/LAMDA-Tabular/MMTU/tree/main) folder.
 
 
 ## 📏 StructuredTables2Images
