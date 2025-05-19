@@ -48,7 +48,7 @@ We collect Tables from WTQ, TabFact and NAT-QA creating four QA task types acros
 
 
 ## 📏 StructuredTables2Images
-During the table collection process, we observed a wide variety of table formats, including HTML, CSV, Markdown, and LaTeX. To standardize these into a consistent image format, we provide a unified pipeline that converts tables from these various formats into PNG images. This conversion facilitates downstream processing and evaluation. The implementation can be found in the [StructuredTables2Images](https://github.com/LAMDA-Tabular/MMTU/tree/main/StucturedTables2Images) module.
+During the table collection process, we observed a wide variety of table formats, including HTML, CSV, Markdown, and LaTeX. To standardize these into a consistent image format, we provide a unified pipeline that converts tables from these various formats into PNG images. This conversion facilitates downstream processing and evaluation. The implementation can be found in the [StructuredTables2Images](https://github.com/LAMDA-Tabular/MMTU/tree/main/StructuredTables2Images) module.
 
 ## 🔧 Continual Fixing
 
@@ -57,15 +57,11 @@ During the table collection process, we observed a wide variety of table formats
 
 ## 🤗 Contact
 
-If there are any questions, please feel free to propose new features by opening an issue or contact the author: **Jun-Peng Jiang** ([jiangjp@lamda.nju.edu.cn](mailto:jiangjp@lamda.nju.edu.cn)) and **Tao Zhou** ([zhout@lamda.nju.edu.cn](mailto:zhout@lamda.nju.edu.cn)) and **Han-Jia Ye** ([yehj@lamda.nju.edu.cn](mailto:yehj@lamda.nju.edu.cn)). Enjoy the benchmark.
-
-
-
+If there are any questions, please feel free to propose new features by opening an issue or contact the author: **Jun-Peng Jiang** ([jiangjp@lamda.nju.edu.cn](mailto:jiangjp@lamda.nju.edu.cn)) and **Tao Zhou** ([zhout@lamda.nju.edu.cn](mailto:zhout@lamda.nju.edu.cn)) and **De-Chuan Zhan** ([zhandc@lamda.nju.edu.cn](mailto:zhandc@lamda.nju.edu.cn))and **Han-Jia Ye** ([yehj@lamda.nju.edu.cn](mailto:yehj@lamda.nju.edu.cn)). Enjoy the benchmark.
 
 <!-- <p align="center">
 <img src="./resources/overview.png"  width="1000px">
 </p>
-
 <p align="center">
 <img src="./resources/structure.png"  width="1000px">
 </p> -->
