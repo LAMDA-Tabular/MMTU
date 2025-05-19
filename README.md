@@ -44,7 +44,7 @@ We classify the questions into 4 categories:
 - Comprehending compositional conditions (CC)
 - Performing calculations or reasoning (CR).  -->
 
-We collect Tables from WTQ, TabFact and NAT-QA creating four QA task types across over ten domains and yielding 8921 QA pairs. To ensure quality, GPT-4 generated questions, LLMs and human experts validated answers, retaining consistent pairs and resolving discrepancies, as shown in the above figure.The JSON files of questions can be found in the [data](https://github.com/LAMDA-Tabular/MMTU/tree/main/data) folder,  and the images of tables can be found in the [images](https://huggingface.co/datasets/LAMDA-Tabular/MMTU/tree/main) folder.
+We collect Tables from WTQ, TabFact and NAT-QA creating four QA task types across over ten domains and yielding 8921 QA pairs. To ensure quality, GPT-4 generated questions, LLMs and human experts validated answers, retaining consistent pairs and resolving discrepancies, as shown in the above figure.The JSON files of questions can be found in the [data](https://github.com/LAMDA-Tabular/MMTU/tree/main/data) folder,  and the images of tables can be found in the [huggingface](https://huggingface.co/datasets/LAMDA-Tabular/MMTU/tree/main).
 
 
 ## 📏 StructuredTables2Images
@@ -52,7 +52,7 @@ During the table collection process, we observed a wide variety of table formats
 
 ## 🔧 Continual Fixing
 
-- Some Results and Visulizations are under preparation. 
+- Some Results and Visualizations are under preparation. 
 - We will upload our training and test code soon.
 
 ## 🤗 Contact
