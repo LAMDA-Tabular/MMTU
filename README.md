@@ -7,7 +7,10 @@ Our paper has been accepted to **ICML 2025**. If you find our work useful, pleas
 ```bibtex
 @inproceedings{jiang2025compositional,
   title={Compositional Condition Question Answering in Tabular Understanding},
-  author={Jiang, Jun-Peng and Zhou, Tao and Zhan, De-Chuan and Ye, Han-Jia},
+  author={Jun-Peng Jiang and
+          Tao Zhou and
+          De-Chuan Zhan and
+          Han-Jia Ye},
   booktitle={Forty-second International Conference on Machine Learning},
   year={2025}
 }
@@ -16,7 +19,7 @@ Our paper has been accepted to **ICML 2025**. If you find our work useful, pleas
 
   
 In this repository, we introduce **MMTU**, which is Massive Multimodal Tabular Understanding Benchmark.  
-We classify the questions into 4 categories:
+We classify the questions in tabular understanding into 4 categories:
 
 - **Understanding individual elements (IE)**
 - **Interpreting rows and columns (RC)**
