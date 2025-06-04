@@ -47,4 +47,4 @@ During the extensive table collection process, which involved gathering tables f
 
 ## 🤗 Contact
 
-If there are any questions, please feel free to propose new features by opening an issue or contact the author: **Jun-Peng Jiang** ([jiangjp@lamda.nju.edu.cn](mailto:jiangjp@lamda.nju.edu.cn)) and **Tao Zhou**. Enjoy the benchmark.
+If there are any questions, please feel free to propose new features by opening an issue or contact the author: **Jun-Peng Jiang** ([jiangjp@lamda.nju.edu.cn](mailto:jiangjp@lamda.nju.edu.cn)) and **Tao Zhou** ([zhout@lamda.nju.edu.cn](mailto:zhout@lamda.nju.edu.cn)). Enjoy the benchmark.
